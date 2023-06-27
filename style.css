@@ -1,0 +1,16 @@
+.container-form {
+    width: 600px;
+    border: 2px solid red;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.container-accordeon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    width: 500px;
+
+}
